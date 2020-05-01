@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>Menu</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+       <div class="bgimage">
+            <div class="menu">
+                 <div class="leftmenu">
+                 <h2>Food Hub</h2>
+                 </div>
+                 <div class="rightmenu">
+                 <ul>
+                     <li><a href="Home.html">Home</a></li>
+                     <li id="firstlist"><a class="active" href="Menu.html">Menu</a></li>
+                     <li><a href="Account.html">Account</a></li>
+                      <li><a href="Aboutus.html">About Us</a></li>
+                     <li><a href="Contactus.html">Contact Us</a></li>
+                    
+                 </ul>    
+                 </div>
+            </div>
+<div class="ge">
+  <ul>
+    <li><a href="pizza.html">
+  <div class="cp" >
+    <div class="cr">
+        <img id="co" src="./Icons/Pizza.jpg"> 
+        <font size=5 color=white><b>Pizza</b></font>
+    </div>
+  </div>
+</a>
+  </li>
+  <li><a href="burger.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/burger.jpg">  
+        <font size=5 color=white><b>burger</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Garlic.html">
+  <div class="cp" id="secondlist">
+    <div class="cr">
+        <img id="co" src="./Icons/gb.jpg">  
+        <font size=5 color=white><b>Garli..</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Pasta.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/pasta.jpg"> 
+        <font size=5 color=white><b>Pasta</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Hotdog.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/hotdog.jpg">  
+        <font size=5 color=white><b>hotdog</b></font>
+    </div>
+  </div>
+</a>
+  </li>
+  <li><a href="Beverages.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/b.jpg"> 
+        <font size=5 color=white><b>bever..</b></font>
+    </div>
+  </div>
+</a>
+</li>
+</ul>
+</div>
+
+
+<div class="bt">
+
+<div class="Garlic">
+
+
+<div class="b2">
+  <div class="imt">
+      <img src="./Garlic/1.png">
+    </div>
+    <div class="tiled">
+      <h4>R119/-</h4>
+      <p>Garlic Bread Stickes</p>
+    </div>
+    <div class="button">
+    <button id="bm">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b2">
+  <div class="imt">
+      <img src="./Garlic/2.png">
+    </div>
+    <div class="tiled">
+      <h4>R150/-</h4>
+      <p>Stuffed Cheesy Bread</p>
+    </div>
+    <div class="button">
+    <button id="bm">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b2">
+  <div class="imt">
+      <img src="./Garlic/3.png">
+    </div>
+    <div class="tiled">
+      <h4>R90/-</h4>
+      <p> Maxican Cheesy Garlic Bread</p>
+    </div>
+    <div class="button">
+    <button id="bm">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+  <div class="b2">
+  <div class="imt">
+      <img src="./Garlic/4.png">
+    </div>
+    <div class="tiled">
+      <h4>R80/-</h4>
+      <p>Cheezo Garlic Bread Stickes</p>
+    </div>
+    <div class="button">
+    <button id="bm">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+
+  </div>
+
+
+  <div class="Garlic">
+
+
+<div class="b2">
+  <div class="imt">
+      <img src="./Garlic/5.png">
+    </div>
+    <div class="tiled">
+      <h4>R120/-</h4>
+      <p>Stuffed Garlic Bread</p>
+    </div>
+    <div class="button">
+    <button id="bm">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b2">
+  <div class="imt">
+      <img src="./Garlic/6.png">
+    </div>
+    <div class="tiled">
+      <h4>R180/-</h4>
+      <p>Supreme Garlic Bread</p>
+    </div>
+    <div class="button">
+    <button id="bm">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b2">
+  <div class="imt">
+      <img src="./Garlic/7.png">
+    </div>
+    <div class="tiled">
+      <h4>R149/-</h4>
+      <p>Garlic Bread Spicy Supreme </p>
+    </div>
+    <div class="button">
+    <button id="bm">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+  <div class="b2">
+  <div class="imt">
+      <img src="./Garlic/8.png">
+    </div>
+    <div class="tiled">
+      <h4>R70/-</h4>
+      <p>Plain Garlic Bread</p>
+    </div>
+    <div class="button">
+    <button id="bm">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  </div>
+
+
+<div class="bt">
+
+<div class="Garlic">
+
+
+<div class="b2">
+  <div class="imt">
+      <img src="./Garlic/9.png">
+    </div>
+    <div class="tiled">
+      <h4>R150/-</h4>
+      <p>American Garlic Bread</p>
+    </div>
+    <div class="button">
+    <button id="bm">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b2">
+  <div class="imt">
+      <img src="./Garlic/10.png">
+    </div>
+    <div class="tiled">
+      <h4>R90/-</h4>
+      <p>Cheese Chilli Garlic Bread</p>
+    </div>
+    <div class="button">
+    <button id="bm">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b2">
+  <div class="imt">
+      <img src="./Garlic/11.png">
+    </div>
+    <div class="tiled">
+      <h4>R140/-</h4>
+      <p>Bruschetta Garlic Bread </p>
+    </div>
+    <div class="button">
+    <button id="bm">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+  <div class="b2">
+  <div class="imt">
+      <img src="./Garlic/12.png">
+    </div>
+    <div class="tiled">
+      <h4>R159/-</h4>
+      <p>Black Cheese Garlic Bread</p>
+    </div>
+    <div class="button">
+    <button id="bm">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+
+  </div>
+
+</div>
+
+
+
+</div>
+
+  </div>  
+</body>
+</html>

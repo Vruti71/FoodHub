@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>Menu</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+       <div class="bgimage">
+            <div class="menu">
+                 <div class="leftmenu">
+                 <h2>Food Hub</h2>
+                 </div>
+                 <div class="rightmenu">
+                 <ul>
+                     <li><a href="Home.html">Home</a></li>
+                     <li id="firstlist"><a class="active" href="Menu.html">Menu</a></li>
+                     <li><a href="Account.html">Account</a></li>
+                     <li><a href="Aboutus.html">About Us</a></li>
+                     <li><a href="Contactus.html">Contact Us</a></li>
+                     
+                 </ul>    
+                 </div>
+            </div>
+
+
+
+<div class="ge">
+  <ul>
+    <li><a href="pizza.html">
+  <div class="cp" >
+    <div class="cr">
+        <img id="co" src="./Icons/Pizza.jpg"> 
+        <font size=5 color=white><b>Pizza</b></font>
+    </div>
+  </div>
+</a>
+  </li>
+  <li><a href="burger.html">
+  <div class="cp" id="secondlist">
+    <div class="cr">
+        <img id="co" src="./Icons/burger.jpg">  
+        <font size=5 color=white><b>burger</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Garlic.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/gb.jpg">  
+        <font size=5 color=white><b>Garli..</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Pasta.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/pasta.jpg"> 
+        <font size=5 color=white><b>Pasta</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Hotdog.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/hotdog.jpg">  
+        <font size=5 color=white><b>hotdog</b></font>
+    </div>
+  </div>
+</a>
+  </li>
+  <li><a href="Beverages.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/b.jpg"> 
+        <font size=5 color=white><b>bever..</b></font>
+    </div>
+  </div>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="bu">
+
+<div class="burger">
+
+
+
+<div class="b1">
+  <div class="im">
+      <img src="./burger/6.png">
+    </div>
+    <div class="tile">
+      <h4>R65/-</h4>
+      <p>Chatpata Naan-Aloo</p>
+    </div>
+    <div class="button">
+    <button id="b">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b1">
+  <div class="im">
+      <img src="./burger/7.png">
+    </div>
+    <div class="tile">
+      <h4>R56/-</h4>
+      <p>Mexican McAloo Tikki Burger</p>
+    </div>
+    <div class="button">
+    <button id="b">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b1">
+  <div class="im">
+      <img src="./burger/8.png">
+    </div>
+    <div class="tile">
+      <h4>R109/-</h4>
+      <p>McVeggie Burger</p>
+    </div>
+    <div class="button">
+    <button id="b">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+  <div class="b1">
+  <div class="im">
+      <img src="./burger/9.png">
+    </div>
+    <div class="tile">
+      <h4>R120/-</h4>
+      <p>McVeggie with Whole Wheat Bun </p>
+    </div>
+    <div class="button">
+    <button id="b">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+  <div class="b1">
+  <div class="im">
+      <img src="./burger/10.png">
+    </div>
+    <div class="tile">
+      <h4>R124/-</h4>
+      <p>American Cheese Supreme-Veg</p>
+    </div>
+    <div class="button">
+    <button id="b">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+</div>
+
+
+
+<div class="burger">
+
+
+
+<div class="b1">
+  <div class="im">
+      <img src="./burger/11.png">
+    </div>
+    <div class="tile">
+      <h4>R135/-</h4>
+      <p>Salad Wrap</p>
+    </div>
+    <div class="button">
+    <button id="b">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b1">
+  <div class="im">
+      <img src="./burger/12.png">
+    </div>
+    <div class="tile">
+      <h4>R49/-</h4>
+      <p> McAloo Tikki Burger</p>
+    </div>
+    <div class="button">
+    <button id="b">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b1">
+  <div class="im">
+      <img src="./burger/13.png">
+    </div>
+    <div class="tile">
+      <h4>R167/-</h4>
+      <p>McSpicy Paneer Burger</p>
+    </div>
+    <div class="button">
+    <button id="b">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+  <div class="b1">
+  <div class="im">
+      <img src="./burger/14.png">
+    </div>
+    <div class="tile">
+      <h4>R204/-</h4>
+      <p>Veg Maharaja Mac</p>
+    </div>
+    <div class="button">
+    <button id="b">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+  <div class="b1">
+  <div class="im">
+      <img src="./burger/15.png">
+    </div>
+    <div class="tile">
+      <h4>R204/-</h4>
+      <p>Big Spicy Paneer Wrap</p>
+    </div>
+    <div class="button">
+    <button id="b">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+  </div>  
+</body>
+</html>

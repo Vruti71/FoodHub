@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>Menu</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+       <div class="bgimage">
+            <div class="menu">
+                 <div class="leftmenu">
+                 <h2>Food Hub</h2>
+                 </div>
+                 <div class="rightmenu">
+                 <ul>
+                     <li><a href="Home.html">Home</a></li>
+                     <li id="firstlist"><a class="active" href="Menu.html">Menu</a></li>
+                     <li><a href="Account.html">Account</a></li>
+                      <li><a href="Aboutus.html">About Us</a></li>
+                     <li><a href="Contactus.html">Contact Us</a></li>
+                    
+                 </ul>    
+                 </div>
+            </div>
+<div class="ge">
+  <ul>
+    <li><a href="pizza.html">
+  <div class="cp" >
+    <div class="cr">
+        <img id="co" src="./Icons/Pizza.jpg"> 
+        <font size=5 color=white><b>Pizza</b></font>
+    </div>
+  </div>
+</a>
+  </li>
+  <li><a href="burger.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/burger.jpg">  
+        <font size=5 color=white><b>burger</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Garlic.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/gb.jpg">  
+        <font size=5 color=white><b>Garli..</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Pasta.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/pasta.jpg"> 
+        <font size=5 color=white><b>Pasta</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Hotdog.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/hotdog.jpg">  
+        <font size=5 color=white><b>hotdog</b></font>
+    </div>
+  </div>
+</a>
+  </li>
+  <li><a href="Beverages.html">
+  <div class="cp" id="secondlist">
+    <div class="cr">
+        <img id="co" src="./Icons/b.jpg"> 
+        <font size=5 color=white><b>bever..</b></font>
+    </div>
+  </div>
+</a>
+</li>
+</ul>
+</div>
+
+
+
+
+
+
+<div class="bd">
+
+<div class="beverages">
+
+
+<div class="b3">
+  <div class="imd" id="pt">
+      <img src="./beverages/1.png">
+    </div>
+    <div class="tilet">
+      <h4>45/-</h4>
+      <p>Pepsi</p>
+    </div>
+    <div class="button">
+    <button id="bi">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b3">
+  <div class="imd" id="pt">
+      <img src="./beverages/2.png">
+    </div>
+    <div class="tilet">
+      <h4>R158/-</h4>
+      <p>Diet Coke</p>
+    </div>
+    <div class="button">
+    <button id="bi">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b3">
+  <div class="imd">
+      <img src="./beverages/3.png">
+    </div>
+    <div class="tilet">
+      <h4>R100/-</h4>
+      <p>Red Bull </p>
+    </div>
+    <div class="button">
+    <button id="bi">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b3">
+  <div class="imd" id="pt">
+      <img src="./beverages/4.png">
+    </div>
+    <div class="tilet">
+      <h4>R60/-</h4>
+      <p>Coco Cola </p>
+    </div>
+    <div class="button">
+    <button id="bi">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+
+
+  </div>
+
+
+  <div class="beverages">
+
+
+<div class="b3">
+  <div class="imd">
+      <img src="./beverages/5.png">
+    </div>
+    <div class="tilet">
+      <h4>40/-</h4>
+      <p>Fanta</p>
+    </div>
+    <div class="button">
+    <button id="bi">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b3">
+  <div class="imd">
+      <img src="./beverages/6.png">
+    </div>
+    <div class="tilet">
+      <h4>R50/-</h4>
+      <p>Coco Cola</p>
+    </div>
+    <div class="button">
+    <button id="bi">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b3">
+  <div class="imd">
+      <img src="./beverages/7.png">
+    </div>
+    <div class="tilet">
+      <h4>R45/-</h4>
+      <p>Sprite </p>
+    </div>
+    <div class="button">
+    <button id="bi">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b3">
+  <div class="imd">
+      <img src="./beverages/8.png">
+    </div>
+    <div class="tilet">
+      <h4>R40/-</h4>
+      <p> Coco Cola</p>
+    </div>
+    <div class="button">
+    <button id="bi">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+
+
+  </div>
+
+</div>
+
+
+
+
+
+  </div>  
+</body>
+</html>

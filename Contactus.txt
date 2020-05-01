@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title> Contact Us</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+       <div class="bgimage">
+            <div class="menu">
+                 <div class="leftmenu">
+                 <h2>Food Hub</h2>
+                 </div>
+                 <div class="rightmenu">
+                 <ul>
+                     <li><a href="Home.html">Home</a></li>
+                     <li><a href="Menu.html">Menu</a></li>
+                     <li><a href="Account.html">Account</a></li>
+                     <li><a href="Aboutus.html">About Us</a></li>
+                      <li id="firstlist"><a  class="active" href="Contactus.html">Contact Us</a></li>
+                      
+                      
+                 </ul>    
+                 </div>
+            </div>
+
+            <div class="centerdiv">
+            <a href="https://www.facebook.com/pg/F00DHUB/posts/" target="_blank">
+              <i class="fa  fa-2x fa-facebook"></i>
+            </a>
+
+
+
+            <a href="https://twitter.com/officialfoodhub" target="_blank">
+              <i class="fa fa-2x fa-twitter"></i>
+            </a>
+
+
+            <a href="https://www.instagram.com/thefoodhubca/" target="_blank">
+              <i class="fa fa-2x  fa-instagram"></i>
+            </a>
+
+
+            <a href="https://www.youtube.com/channel/UCdRfLh7GbrHsMpNI-ICxOLQ" target="_blank">
+              <i class="fa fa-2x  fa-youtube"></i>
+            </a>
+
+
+            <a href="https://www.linkedin.com/company/foodhubbirmingham" target="_blank">
+              <i class="fa fa-2x fa-linkedin"></i>
+            </a>
+
+            </div>
+       </div>     
+</body>
+</html>

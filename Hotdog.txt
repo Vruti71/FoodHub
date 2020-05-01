@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>Menu</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+       <div class="bgimage">
+            <div class="menu">
+                 <div class="leftmenu">
+                 <h2>Food Hub</h2>
+                 </div>
+                 <div class="rightmenu">
+                 <ul>
+                     <li><a href="Home.html">Home</a></li>
+                     <li id="firstlist"><a class="active" href="Menu.html">Menu</a></li>
+                     <li><a href="Account.html">Account</a></li>
+                     <li><a href="Aboutus.html">About Us</a></li>
+                     <li><a href="Contactus.html">Contact Us</a></li>
+                     
+                 </ul>    
+                 </div>
+            </div>
+<div class="ge">
+  <ul>
+    <li><a href="pizza.html">
+  <div class="cp" >
+    <div class="cr">
+        <img id="co" src="./Icons/Pizza.jpg"> 
+        <font size=5 color=white><b>Pizza</b></font>
+    </div>
+  </div>
+</a>
+  </li>
+  <li><a href="burger.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/burger.jpg">  
+        <font size=5 color=white><b>burger</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Garlic.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/gb.jpg">  
+        <font size=5 color=white><b>Garli..</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Pasta.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/pasta.jpg"> 
+        <font size=5 color=white><b>Pasta</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Hotdog.html">
+  <div class="cp" id="secondlist">
+    <div class="cr">
+        <img id="co" src="./Icons/hotdog.jpg">  
+        <font size=5 color=white><b>hotdog</b></font>
+    </div>
+  </div>
+</a>
+  </li>
+  <li><a href="Beverages.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/b.jpg"> 
+        <font size=5 color=white><b>bever..</b></font>
+    </div>
+  </div>
+</a>
+</li>
+</ul>
+</div>
+
+
+<div class="by">
+
+<div class="Hotdog">
+
+
+<div class="b5">
+  <div class="imk">
+      <img src="./Hotdog/1.png">
+    </div>
+    <div class="tilep">
+      <h4>R145/-</h4>
+      <p>Tanduri Toffu</p>
+    </div>
+    <div class="button">
+    <button id="bp">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b5">
+  <div class="imk">
+      <img src="./Hotdog/2.png">
+    </div>
+    <div class="tilep">
+      <h4>R178/-</h4>
+      <p>Maxican Patty</p>
+    </div>
+    <div class="button">
+    <button id="bp">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b5">
+  <div class="imk">
+      <img src="./Hotdog/3.png">
+    </div>
+    <div class="tilep">
+      <h4>R169/-</h4>
+      <p>Paneer Tikka </p>
+    </div>
+    <div class="button">
+    <button id="bp">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+  <div class="b5">
+  <div class="imk">
+      <img src="./Hotdog/4.png">
+    </div>
+    <div class="tilep">
+      <h4>R150/-</h4>
+      <p>Chatpata Chana</p>
+    </div>
+    <div class="button">
+    <button id="bp">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+
+  </div>
+
+
+
+  <div class="Hotdog">
+
+
+<div class="b5">
+  <div class="imk">
+      <img src="./Hotdog/5.png">
+    </div>
+    <div class="tilep">
+      <h4>R167/-</h4>
+      <p>Turkey</p>
+    </div>
+    <div class="button">
+    <button id="bp">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b5">
+  <div class="imk">
+      <img src="./Hotdog/6.png">
+    </div>
+    <div class="tilep">
+      <h4>R159/-</h4>
+      <p>Veg Seekh</p>
+    </div>
+    <div class="button">
+    <button id="bp">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b5">
+  <div class="imk">
+      <img src="./Hotdog/7.png">
+    </div>
+    <div class="tilep">
+      <h4>R178/-</h4>
+      <p>Aloo Patty </p>
+    </div>
+    <div class="button">
+    <button id="bp">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+  <div class="b5">
+  <div class="imk">
+      <img src="./Hotdog/8.png">
+    </div>
+    <div class="tilep">
+      <h4>R167/-</h4>
+      <p>Veggi Delight</p>
+    </div>
+    <div class="button">
+    <button id="bp">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+
+  </div>
+
+
+
+</div>
+
+
+
+  </div>  
+</body>
+</html>

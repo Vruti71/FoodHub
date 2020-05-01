@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>About us</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+       <div class="bgimage">
+            <div class="menu">
+                 <div class="leftmenu">
+                 <h2>Food Hub</h2>
+                 </div>
+                 <div class="rightmenu">
+                 <ul>
+                     <li><a href="Home.html">Home</a></li>
+                     <li><a href="Menu.html">Menu</a></li>
+                     <li><a href="Account.html">Account</a></li>
+                     <li id="firstlist"><a class="active" href="Aboutus.html">About Us</a></li>
+                      <li><a href="Contactus.html">Contact Us</a></li>
+                 </ul>    
+                 </div>
+            </div>
+          
+             <div class="doc">
+              <h1>What is a food hub?</h1>
+
+              <h3>A regional food hub is a business or organization that actively manages the aggregation, distribution, and marketing of source-identified food products 
+                primarily from local and regional producers to strengthen their ability to satisfy wholesale, retail, and institutional demand.<br><br>
+                <p>Food value chains represent an innovative business model in which agricultural producers, manufacturers, buyers, and other related supply chain actors 
+                form collaborative, transparent partnerships that attempt to combine product differentiation strategies with commitment to shared operational values and social 
+              mission goals.  Unlike traditional corporate marketing approaches, which focus on the superior attributes of a firm’s products or services, value chains address 
+            customers’ desire to promote social improvement.</p></h3><br><br>
+
+
+
+
+
+              <h1>About Our Food:</h1> <br><br> 
+
+              <h2>We are Passionate About Our Food</h2><br>
+
+              <h3>From making healthier additions to our Happy Meal®, to serving up fresh beef Quarter Pounder® burgers that are cooked when you order, we are always finding ways
+               to show our commitment to our customers and our food.</h3><br><br>
+
+               <h2>Commitment to Quality</h2><br>
+               <h3>We're dedicated to improving the way we prepare our quality food and the ingredients that go into it.</h3><br><br>
+
+               <h2>Our Food, Your Questions</h2><br>
+               <h3>We're transparent about our food; so when you ask, we tell.</h3><br><br>
+
+             </div>
+             <div class="doc">
+
+               <h2>What's in Your Food</h2><br>
+               <h3>Find out what makes our ingredients special.</h3><br><br>
+
+               <h2>Our Food Philosophy</h2><br>
+               <h3>We’re passionate about our food. That’s why we’re committed to always evolving what matters to you.</h3><br><br>
+
+               <h2>Nutrition Calculator</h2><br>
+               <h3>Our nutrition calculator has the McDonald’s menu nutrition information you’re seeking. Learn more about your favorite meals.</h3><br><br>
+
+               <h2>Our Food Experts</h2><br>
+               <h3>From our chefs, to our dieticians and suppliers, McDonald’s food experts care deeply about the food you eat.</h3><br><br>
+
+               <h2>Fresh Beef</h2><br>
+               <h3>Our Quarter Pounder®* patty is made with 100% fresh beef and cooked right when you order. It’s hot and deliciously juicy and full of flavor.</h3><br><br>
+
+               <h2>Happy Meal® Nutrition</h2><br>
+               <h3>When your kids enjoy a meal that’s delicious and balanced, you’ll enjoy it too.</h3><br><br>
+
+               <h2>Variety of Choices</h2><br>
+               <h3>When it comes to quality options, we’ve got you covered.</h3><br><br>
+
+
+
+
+
+            </div>
+
+
+
+       </div>     
+</body>
+</html>

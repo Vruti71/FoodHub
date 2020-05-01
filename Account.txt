@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>Account</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+       <div class="bgimage">
+            <div class="menu">
+                 <div class="leftmenu">
+                 <h2>Food Hub</h2>
+                 </div>
+                 <div class="rightmenu">
+                 <ul>
+                     <li><a href="Home.html">Home</a></li>
+                     <li><a href="Menu.html">Menu</a></li>
+                     <li id="firstlist"><a class="active"  href="Account.html">Account</a></li>
+                     <li><a href="Aboutus.html">About Us</a></li>
+                     <li><a href="Contactus.html">Contact Us</a></li>
+                     
+                 </ul>    
+                 </div>
+            </div>
+            <div class="details">
+                FIRST NAME&nbsp;&nbsp;:<input type="textbox"><br><br>
+                LAST NAME&nbsp;&nbsp;&nbsp;:<input type="textbox"><br><br>
+                PHONE NUMBER:<input type="textbox" maxlength="10"><br><br>
+                EMAIL ID&nbsp;&nbsp;&nbsp;&nbsp;:<input type="textbox"><br><br>
+                ADDRESS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:<textarea name="Address" rows="6" cols="35"></textarea><br><br>
+                <button>Submit</button>
+            </div>
+       </div>     
+</body>
+</html>
+ 

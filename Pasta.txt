@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>Menu</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+       <div class="bgimage">
+            <div class="menu">
+                 <div class="leftmenu">
+                 <h2>Food Hub</h2>
+                 </div>
+                 <div class="rightmenu">
+                 <ul>
+                     <li><a href="Home.html">Home</a></li>
+                     <li id="firstlist"><a class="active" href="Menu.html">Menu</a></li>
+                     <li><a href="Account.html">Account</a></li>
+                      <li><a href="Aboutus.html">About Us</a></li>
+                     <li><a href="Contactus.html">Contact Us</a></li>
+                    
+                 </ul>    
+                 </div>
+            </div>
+<div class="ge">
+  <ul>
+    <li><a href="pizza.html">
+  <div class="cp" >
+    <div class="cr">
+        <img id="co" src="./Icons/Pizza.jpg"> 
+        <font size=5 color=white><b>Pizza</b></font>
+    </div>
+  </div>
+</a>
+  </li>
+  <li><a href="burger.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/burger.jpg">  
+        <font size=5 color=white><b>burger</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Garlic.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/gb.jpg">  
+        <font size=5 color=white><b>Garli..</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Pasta.html">
+  <div class="cp" id="secondlist">
+    <div class="cr">
+        <img id="co" src="./Icons/pasta.jpg"> 
+        <font size=5 color=white><b>Pasta</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Hotdog.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/hotdog.jpg">  
+        <font size=5 color=white><b>hotdog</b></font>
+    </div>
+  </div>
+</a>
+  </li>
+  <li><a href="Beverages.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/b.jpg"> 
+        <font size=5 color=white><b>bever..</b></font>
+    </div>
+  </div>
+</a>
+</li>
+</ul>
+</div>
+
+
+<div class="bo">
+
+<div class="Pasta">
+
+
+<div class="b4">
+  <div class="iml">
+      <img src="./pasta/1.png">
+    </div>
+    <div class="tilem">
+      <h4>R210/-</h4>
+      <p>Prince Panny Pasta</p>
+    </div>
+    <div class="button">
+    <button id="bh">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b4">
+  <div class="iml">
+      <img src="./pasta/2.png">
+    </div>
+    <div class="tilem">
+      <h4>R169/-</h4>
+      <p>Alfredo Pasta</p>
+    </div>
+    <div class="button">
+    <button id="bh">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b4">
+  <div class="iml">
+      <img src="./pasta/3.png">
+    </div>
+    <div class="tilem">
+      <h4>R159/-</h4>
+      <p>White sause Pasta </p>
+    </div>
+    <div class="button">
+    <button id="bh">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+  <div class="b4">
+  <div class="iml">
+      <img src="./pasta/4.png">
+    </div>
+    <div class="tilem">
+      <h4>R149/-</h4>
+      <p>Lakhnavi Nawabi Pasta</p>
+    </div>
+    <div class="button">
+    <button id="bh">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+
+  </div>
+
+
+
+
+
+<div class="Pasta">
+
+
+<div class="b4">
+  <div class="iml">
+      <img src="./pasta/5.png">
+    </div>
+    <div class="tilem">
+      <h4>R149/-</h4>
+      <p>Makhani Pasta</p>
+    </div>
+    <div class="button">
+    <button id="bh">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b4">
+  <div class="iml">
+      <img src="./pasta/6.png">
+    </div>
+    <div class="tilem">
+      <h4>R159/-</h4>
+      <p>Achari Pasta</p>
+    </div>
+    <div class="button">
+    <button id="bh">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b4">
+  <div class="iml">
+      <img src="./pasta/7.png">
+    </div>
+    <div class="tilem">
+      <h4>R189/-</h4>
+      <p>Pink Pasta </p>
+    </div>
+    <div class="button">
+    <button id="bh">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+  <div class="b4">
+  <div class="iml">
+      <img src="./pasta/8.png">
+    </div>
+    <div class="tilem">
+      <h4>R158/-</h4>
+      <p>Italian Pasta</p>
+    </div>
+    <div class="button">
+    <button id="bh">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+
+  </div>
+
+
+
+
+
+<div class="Pasta">
+
+
+<div class="b4">
+  <div class="iml">
+      <img src="./pasta/9.png">
+    </div>
+    <div class="tilem">
+      <h4>R169/-</h4>
+      <p>Red Pasta</p>
+    </div>
+    <div class="button">
+    <button id="bh">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b4">
+  <div class="iml">
+      <img src="./pasta/10.jpg">
+    </div>
+    <div class="tilem">
+      <h4>R189/-</h4>
+      <p>Cheese Red Pasta</p>
+    </div>
+    <div class="button">
+    <button id="bh">ADD TO CART</button>
+  </div>
+  </div>
+
+
+  <div class="b4">
+  <div class="iml">
+      <img src="./pasta/11.png">
+    </div>
+    <div class="tilem">
+      <h4>R169/-</h4>
+      <p> Fusion Maggi Pasta</p>
+    </div>
+    <div class="button">
+    <button id="bh">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+  <div class="b4">
+  <div class="iml">
+      <img src="./pasta/12.png">
+    </div>
+    <div class="tilem">
+      <h4>R169/-</h4>
+      <p>Royal Creamy Pasta</p>
+    </div>
+    <div class="button">
+    <button id="bh">ADD TO CART</button>
+  </div>
+  </div>
+
+
+
+
+  </div>
+
+</div>
+
+
+
+  </div>  
+</body>
+</html>

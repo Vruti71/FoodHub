@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>Home</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+       <div class="bgimage">
+            <div class="menu">
+                 <div class="leftmenu">
+                 <h2>Food Hub</h2>
+                 </div>
+                 <div class="rightmenu">
+                 <ul>
+                     <li id="firstlist"><a class="active" href="Home.html">Home</a></li>
+                     <li><a href="Menu.html">Menu</a></li>
+                     <li><a href="Account.html">Account</a></li>
+                     <li><a href="Aboutus.html">About Us</a></li>
+                     <li><a href="Contactus.html">Contact Us</a></li>
+                     
+                 </ul>    
+                 </div>
+            </div>
+            <div class="text">
+              <h2>Welcome to Food Hub</h2>
+              <h1>Passion For The Perfect Taste!</h1>
+            </div>
+       </div>     
+</body>
+</html>

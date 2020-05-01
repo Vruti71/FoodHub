@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>Menu</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+       <div class="bgimage" id="full">
+            <div class="menu">
+                 <div class="leftmenu">
+                 <h2>Food Hub</h2>
+                 </div>
+                 <div class="rightmenu">
+                 <ul>
+                     <li><a href="Home.html">Home</a></li>
+                     <li id="firstlist"><a class="active" href="Menu.html">Menu</a></li>
+                     <li><a href="Account.html">Account</a></li>
+                     <li><a href="Aboutus.html">About Us</a></li>
+                     <li><a href="Contactus.html">Contact Us</a></li>
+                     
+                 </ul>    
+                 </div>
+            </div>
+
+
+
+
+<div class="ge">
+  <ul>
+    <li><a href="pizza.html">
+  <div class="cp" id="secondlist">
+    <div class="cr">
+        <img id="co" src="./Icons/Pizza.jpg"> 
+        <font size=5 color=white><b>Pizza</b></font>
+    </div>
+  </div>
+</a>
+  </li>
+  <li><a href="burger.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/burger.jpg">  
+        <font size=5 color=white><b>burger</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Garlic.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/gb.jpg">  
+        <font size=5 color=white><b>Garli..</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Pasta.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/pasta.jpg"> 
+        <font size=5 color=white><b>Pasta</b></font>
+    </div>
+  </div>
+  </li>
+</a>
+  <li><a href="Hotdog.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/hotdog.jpg">  
+        <font size=5 color=white><b>hotdog</b></font>
+    </div>
+  </div>
+</a>
+  </li>
+  <li><a href="Beverages.html">
+  <div class="cp">
+    <div class="cr">
+        <img id="co" src="./Icons/b.jpg"> 
+        <font size=5 color=white><b>bever..</b></font>
+    </div>
+  </div>
+</a>
+</li>
+</ul>
+</div>
+
+
+
+<div class="gp">
+
+
+<div class="gr">
+
+
+  <div class="cards">
+    <div class="image"><img src="./pizza/5_pepper_pizza.jpg">
+      <div class="rupees"><h4>R450/-</h4></div>
+    </div>
+    <div class="title">
+      <h2> 5 Pepper Pizza</h2>
+    </div>
+    <div class="des">
+      <p> Delight of capsicum,yellow & red bell peppers,jalapeno and red paprika </p>
+    
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R23/-</option>
+      <option>Medium R450/-</option>
+      <option><h4>Large R695/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R450/-</option>
+      <option>Wheat Thin Crust R500/-</option>
+      <option>Cheese Burst R549/-</option>
+      <option>Fresh Pan Pizza R490/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+  </div>
+
+        <!--cards-->
+
+
+
+ <div class="cards">
+    <div class="image"><img src="./pizza/mp_achari_do_pyaza.jpg">
+      <div class="rupees"><h4>R305/-</h4></div>
+    </div>
+    <div class="title">
+      <h2>Achari Do Pyaza</h2>
+    </div>
+    <div class="des">
+      <p>Tangy & spicy achari flavours on a super cheesy onion pizza-as desi as it gets! </p>
+    
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R165/-</option>
+      <option>Medium R305/-</option>
+      <option><h4>Large R495/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R305/-</option>
+      <option>Wheat Thin Crust R355/-</option>
+      <option>Cheese Burst R404/-</option>
+      <option>Fresh Pan Pizza R345/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+  </div>
+
+
+     <!--cards-->
+
+
+   <div class="cards">
+    <div class="image"><img src="./pizza/mp_Kadhai_paneer.jpg">
+      <div class="rupees"><h4>R395/-</h4></div>
+    </div>
+    <div class="title">
+      <h2>Kadhai Paneer</h2>
+    </div>
+    <div class="des">
+      <p> Paneer chunks in your favourite spicy kadhai masala flavors,with toppings of onion & capsicum </p>
+    
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R215/-</option>
+      <option>Medium R395/-</option>
+      <option><h4>Large R595/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R395/-</option>
+      <option>Wheat Thin Crust R445/-</option>
+      <option>Cheese Burst R494/-</option>
+      <option>Fresh Pan Pizza R435/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+</div>
+
+
+</div>
+
+<div class="gr">
+
+  <div class="cards">
+    <div class="image"><img src="./pizza/mp_paneer_makhani.jpg">
+      <div class="rupees"><h4>R395/-</h4></div>
+    </div>
+    <div class="title">
+      <h2>Paneer Makhani</h2>
+    </div>
+    <div class="des">
+      <p>A burst of Indian flavors with spicy-tangy layer of Makhani sauce topped with Paneer & capsicum</p>
+    
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R215/-</option>
+      <option>Medium R395/-</option>
+      <option><h4>Large R595/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R395/-</option>
+      <option>Wheat Thin Crust R445/-</option>
+      <option>Cheese Burst R494/-</option>
+      <option>Fresh Pan Pizza R435/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+  </div>
+
+        <!--cards-->
+
+
+
+  <div class="cards">
+    <div class="image"><img src="./pizza/new_cheese_n_corn.jpg">
+      <div class="rupees"><h4>R305/-</h4></div>
+    </div>
+    <div class="title">
+      <h2>Cheese n Corn</h2>
+    </div>
+    <div class="des">
+      <p>Sweet & Juicy Golden corn and 100% real mozzarella cheese in a delectable combination! </p>
+    
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R165/-</option>
+      <option>Medium R305/-</option>
+      <option><h4>Large R495/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R305/-</option>
+      <option>Wheat Thin Crust R355/-</option>
+      <option>Cheese Burst R404/-</option>
+      <option>Fresh Pan Pizza R345/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+  </div>
+
+
+     <!--cards-->
+
+
+   <div class="cards">
+    <div class="image"><img src="./pizza/new_deluxe_veggie.jpg">
+      <div class="rupees"><h4>R450/-</h4></div>
+    </div>
+    <div class="title">
+      <h2> Deluxe Veggie</h2>
+    </div>
+    <div class="des">
+      <p> Veg delight-onion,capsicum,grilled mushroom,corn & paneer</p>
+    
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R235/-</option>
+      <option>Medium R450/-</option>
+      <option><h4>Large R695/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R450/-</option>
+      <option>Wheat Thin Crust R500/-</option>
+      <option>Cheese Burst R549/-</option>
+      <option>Fresh Pan Pizza R490/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+  </div>
+
+
+</div>
+ 
+
+<div class="gr">
+
+
+      <div class="cards">
+    <div class="image"><img src="./pizza/new_fresh_veggie.jpg">
+      <div class="rupees"><h4>R335/-</h4></div>
+    </div>
+    <div class="title">
+      <h2> Fresh Veggie</h2>
+    </div>
+    <div class="des">
+      <p> Delectable combination of onion & capsicum,a veggie lovers pick
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R185/-</option>
+      <option>Medium R335/-</option>
+      <option><h4>Large R535/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R335/-</option>
+      <option>Wheat Thin Crust R385/-</option>
+      <option>Cheese Burst R434/-</option>
+      <option>Fresh Pan Pizza R375/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+  </div>
+
+        <!--cards-->
+
+
+
+ <div class="cards">
+    <div class="image"><img src="./pizza/new_margherita_2502.jpg">
+      <div class="rupees"><h4>R199/-</h4></div>
+    </div>
+    <div class="title">
+      <h2> Margherita</h2>
+    </div>
+    <div class="des">
+      <p> A classic delight with 100% Real mozzarella cheese</p>
+    
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R99/-</option>
+      <option>Medium R199/-</option>
+      <option><h4>Large R395/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R199/-</option>
+      <option>Wheat Thin Crust R249/-</option>
+      <option>Cheese Burst R298/-</option>
+      <option>Fresh Pan Pizza R239/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+  </div>
+
+
+     <!--cards-->
+
+
+    <div class="cards">
+    <div class="image"><img src="./pizza/new_mexican_green_wave.jpg">
+      <div class="rupees"><h4>R395/-</h4></div>
+    </div>
+    <div class="title">
+      <h2>Mexican Green Wave</h2>
+    </div>
+    <div class="des">
+      <p> Mexican herbs sprinkled on onion,capsicum,tomato & jalapeno </p>
+    
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R215/-</option>
+      <option>Medium R395/-</option>
+      <option><h4>Large R595/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R395/-</option>
+      <option>Wheat Thin Crust R445/-</option>
+      <option>Cheese Burst R494/-</option>
+      <option>Fresh Pan Pizza R435/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+  </div>
+
+
+</div>
+
+
+
+
+<div class="gr">
+
+  <div class="cards">
+    <div class="image"><img src="./pizza/new_peppy_paneer.jpg">
+      <div class="rupees"><h4>R395/-</h4></div>
+    </div>
+    <div class="title">
+      <h2>Peppy Paneer</h2>
+    </div>
+    <div class="des">
+      <p> Flavorful trio of juicy paneer ,crisp capsicum with spicy red paprika </p>
+    
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R215/-</option>
+      <option>Medium R395/-</option>
+      <option><h4>Large R595/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R395/-</option>
+      <option>Wheat Thin Crust R445/-</option>
+      <option>Cheese Burst R494/-</option>
+      <option>Fresh Pan Pizza R435/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+  </div>
+
+        <!--cards-->
+
+
+
+  <div class="cards">
+    <div class="image"><img src="./pizza/new_veg_extravaganza.jpg">
+      <div class="rupees"><h4>R450/-</h4></div>
+    </div>
+    <div class="title">
+      <h2> Veg Extravaganza</h2>
+    </div>
+    <div class="des">
+      <p> Black olives,capsicum,onion,grilled mushroom,corn,tomato,jalapeno & extra cheese</p>
+    
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R235/-</option>
+      <option>Medium R450/-</option>
+      <option><h4>Large R695/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R450/-</option>
+      <option>Wheat Thin Crust R500/-</option>
+      <option>Cheese Burst R549/-</option>
+      <option>Fresh Pan Pizza R490/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+  </div>
+
+
+     <!--cards-->
+
+
+   <div class="cards">
+    <div class="image"><img src="./pizza/new_veggie_paradise.jpg">
+      <div class="rupees"><h4>R395/-</h4></div>
+    </div>
+    <div class="title">
+      <h2> Veggie Paradise</h2>
+    </div>
+    <div class="des">
+      <p> The awesome foursome! Golden corn,black olives,capsicum,red paprika </p>
+    
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R215/-</option>
+      <option>Medium R395/-</option>
+      <option><h4>Large R595/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R395/-</option>
+      <option>Wheat Thin Crust R445/-</option>
+      <option>Cheese Burst R494/-</option>
+      <option>Fresh Pan Pizza R435/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+  </div>
+
+
+</div>
+
+
+<div class="gr">
+
+
+      <div class="cards">
+    <div class="image"><img src="./pizza/double_cheese_margherita_2502.jpg">
+      <div class="rupees"><h4>R335/-</h4></div>
+    </div>
+    <div class="title">
+      <h2> Double Cheese Margherita</h2>
+    </div>
+    <div class="des">
+      <p> A classic delight loaded with extra 100% real mozzarella cheese
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R185/-</option>
+      <option>Medium R335/-</option>
+      <option><h4>Large R535/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R335/-</option>
+      <option>Wheat Thin Crust R385/-</option>
+      <option>Cheese Burst R434/-</option>
+      <option>Fresh Pan Pizza R375/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+  </div>
+
+        <!--cards-->
+
+
+
+  <div class="cards">
+    <div class="image"><img src="./pizza/cheese_and_tomato.png">
+      <div class="rupees"><h4>R305/-</h4></div>
+    </div>
+    <div class="title">
+      <h2> Cheese n Tomato</h2>
+    </div>
+    <div class="des">
+      <p> A delectable combination of cheese and juicy tomato</p>
+    
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R165/-</option>
+      <option>Medium R305/-</option>
+      <option><h4>Large R495/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R305/-</option>
+      <option>Wheat Thin Crust R355/-</option>
+      <option>Cheese Burst R404/-</option>
+      <option>Fresh Pan Pizza R345/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+  </div>
+
+
+     <!--cards-->
+
+
+  <div class="cards">
+    <div class="image"><img src="./pizza/farmhouse.png">
+      <div class="rupees"><h4>R395/-</h4></div>
+    </div>
+    <div class="title">
+      <h2>Farmhouse</h2>
+    </div>
+    <div class="des">
+      <p>Delightful combination of onion, capsicum,tomato & grilled mushroom </p>
+    
+    </div>
+    <div class="di">
+    <h3>size:</h3>
+      <select  id="select">
+      <option>Regular R215/-</option>
+      <option>Medium R395/-</option>
+      <option><h4>Large R595/-</h4></option>
+    </select>
+    <br>
+    <h3>Crust:</h3>
+    <select id="select">
+      <option>New Hand Tossed R395/-</option>
+      <option>Wheat Thin Crust R445/-</option>
+      <option>Cheese Burst R494/-</option>
+      <option>Fresh Pan Pizza R435/-</option>
+    </select>
+    </div>
+    <div class="button">
+    <button>ADD TO CART</button>
+  </div>
+  </div>
+
+
+</div>
+
+
+
+
+</div>
+  </div>
+</div>
+</body>
+</html>
